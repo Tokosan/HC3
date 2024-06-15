@@ -1,17 +1,11 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+toko:
+  name: Camilo Araya
+  title: Software Engineer
+  url: https://www.tokosan.cl
+  image_url: https://github.com/Tokosan.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+tvillega:
+  name: Tomás Villegas
+  title: Software Engineer
+  url: http://users.dcc.uchile.cl/~tvillega/
+  image_url: https://github.com/Tokosan.png
